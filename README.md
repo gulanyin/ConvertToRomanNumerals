@@ -46,5 +46,6 @@ python manage.py test
 python manage.py runserver -p 80
 </pre>
 ## 4.效果
-![](1.png)
-
+![](test.png)
+![](result1.png)
+![](result2.png)
